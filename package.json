@@ -1,0 +1,16 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Curso de Asincronísmo en JS PLATZI",
+  "main": "source/callback/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "async",
+    "callback",
+    "await"
+  ],
+  "author": "Tomas Ausino Palau // Oscar Barajas (Profesor)",
+  "license": "ISC"
+}
